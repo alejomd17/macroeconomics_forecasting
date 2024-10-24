@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv_macro_forecast/
+.venv_macro_forecast
 
 # Spyder project settings
 .spyderproject
